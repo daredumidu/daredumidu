@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on information security architecture, threat modeling, risk assessment
 - 📫 How to reach me - https://daredumidu.weebly.com/
 - Micro Credentials: 
-    https://www.credly.com/users/daredumidu/badges
-    https://www.credential.net/profile/daredumidu/wallet
-    https://learn.microsoft.com/en-us/users/daredumidu/
+-    https://www.credly.com/users/daredumidu/badges
+-    https://www.credential.net/profile/daredumidu/wallet
+-    https://learn.microsoft.com/en-us/users/daredumidu/
 
 
 <!---
