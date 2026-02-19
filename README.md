@@ -68,15 +68,16 @@ graph LR
 
 *"Security is not a product, but a process."* — Bruce Schneier
 
+---
 
+📫 How to reach me - https://daredumidu.weebly.com/
 
+## Micro Credentials: 
+- https://www.credly.com/users/daredumidu/badges
+- https://www.credential.net/profile/daredumidu/wallet
+- https://learn.microsoft.com/en-us/users/daredumidu/
 
-- 📫 How to reach me - https://daredumidu.weebly.com/
-- Micro Credentials: 
--    https://www.credly.com/users/daredumidu/badges
--    https://www.credential.net/profile/daredumidu/wallet
--    https://learn.microsoft.com/en-us/users/daredumidu/
-
+---
 
 <!---
 daredumidu/daredumidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
