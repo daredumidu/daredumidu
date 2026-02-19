@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Dumidu 👋
 
 > **IT Infrastructure & Cloud Security Specialist** — securing systems, architecting resilience, and automating everything in between.
 
@@ -70,9 +70,7 @@ graph LR
 
 ---
 
-📫 How to reach me - https://daredumidu.weebly.com/
-
-## Micro Credentials: 
+## 📫 Micro Credentials: 
 - https://www.credly.com/users/daredumidu/badges
 - https://www.credential.net/profile/daredumidu/wallet
 - https://learn.microsoft.com/en-us/users/daredumidu/
